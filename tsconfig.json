@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "types": [
+      "node"
+    ]
+  },
+  "files": [
+    "./src/main.ts",
+    "./node_modules/phaser-ce/typescript/phaser.comments.d.ts"
+  ]
+}
